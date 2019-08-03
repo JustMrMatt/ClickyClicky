@@ -153,7 +153,7 @@ class App extends Component {
           </div>
         </div>
         <BottomNav style={{ background: "#C0000B", marginTop: "17.5px", paddingTop: "15px", borderTop: "2.5px solid slategray" }}>
-          <a href="https://github.com/GeorgeSchlosser/spider-click" target="_blank" rel="noopener noreferrer" className="link" alt="clicky-game-github-link"><i className="fa fa-github fa-2x"></i></a>
+          
         </BottomNav>
 
       </>

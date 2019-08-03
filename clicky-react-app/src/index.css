@@ -1,13 +1,33 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+  font-family: Impact, Charcoal, sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.impactFont {
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+#main-content {
+  margin-top: 80px;
+}
+
+.card {
+  margin: 10px;
+}
+
+.card-image {
+  width: 250px;
+  height: auto;
+}
+
+.card-image:hover {
+  cursor: pointer;
+  background-color: #b3ffec;
+}
+
+.myNavColor {
+  background-color: #00cc99;
+}
+
+.whiteText {
+  color: #FBF7F9;
 }
