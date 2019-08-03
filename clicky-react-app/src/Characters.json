@@ -52,13 +52,13 @@
     {
         "id": 11,
         "name": "mrspotato1",
-        "image": "../images/mrspotato1.png"
+        "image": "../images/mspotato1.png"
     },
     {
         "id": 12,
         "name": "piggy1",
         "image": "../images/piggy1.png"
-    }
+    },
     {
         "id": 13,
         "name": "piggy2",

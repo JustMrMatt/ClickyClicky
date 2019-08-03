@@ -118,7 +118,7 @@ class App extends Component {
                 {/* <Typography variant="h4"  className="navbar-brand whiteText impactFont">
                   Spider-Click
                 </Typography> */}
-                <h2 className="whiteText impactFont">SPIDER-CLICK</h2>
+                <h2 className="whiteText impactFont">Toy Story Click</h2>
               </div>
 
               <ul className="nav navbar-nav whiteText">
@@ -152,7 +152,7 @@ class App extends Component {
             }
           </div>
         </div>
-        <BottomNav style={{ background: "#C0000B", marginTop: "17.5px", paddingTop: "15px", borderTop: "2.5px solid slategray" }}>
+        <BottomNav style={{ background: "#FFFFFF", marginTop: "17.5px", paddingTop: "15px", borderTop: "2.5px solid slategray" }}>
           
         </BottomNav>
 
